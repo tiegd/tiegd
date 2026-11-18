@@ -1,6 +1,6 @@
 # Hi, I'm tiegd 👋
 
-Software developer in training at [École 42](https://42.fr), focused on **C**, **C++** and **systems programming**.
+Software developer in training at [42 School](https://42.fr), focused on **C**, **C++** and **systems programming**.
 
 ## Tech
 
