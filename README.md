@@ -15,7 +15,7 @@ Software developer in training at [École 42](https://42.fr), focused on **C**, 
 
 ### 42 curriculum
 
-- [**miniRT**](https://github.com/LDProg/miniRT): A 3D renderer with ray tracing methode.
+- [**miniRT**](https://github.com/LDProg/miniRT): A 3D renderer with ray tracing method.
 - [**Inception**](https://github.com/tiegd/Inception): a small infrastructure with Docker (nginx, MariaDB, WordPress).
 - [**ft_irc**](https://github.com/tiegd/ft_irc): Implementation of an IRC server in C++ using network sockets and client-server architecture.
 - [**minishell**](https://github.com/tiegd/minishell): a simplified Unix shell (parsing, pipes, redirections, signals, builtins).
